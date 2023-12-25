@@ -25,4 +25,5 @@ Explore the versatility of SVMs for digit recognition and fine-tune your model f
 
 *Note: The script includes an alternative method for visualizing the impact of hyperparameters using a 3D plot.*
 
+
 ---
